@@ -1,2 +1,2 @@
 # flexbox-image-animations
-Expiriment with flexbox-image-animations
+Expiriment using flexbox-image-animations
